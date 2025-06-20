@@ -1,0 +1,66 @@
+2025-06-20 09:58:19,168 - logger - INFO - Виклик функції 'start' з аргументами: (<MagicMock spec='Message' id='125351469820016'>,), {}
+2025-06-20 09:58:19,168 - logger - INFO - Функція 'start' успішно завершила роботу
+2025-06-20 09:58:19,172 - logger - INFO - Виклик функції 'films' з аргументами: (<MagicMock spec='Message' id='125351468013264'>,), {}
+2025-06-20 09:58:19,172 - logger - INFO - Функція 'films' успішно завершила роботу
+2025-06-20 09:58:19,176 - logger - INFO - Виклик функції 'film_create' з аргументами: (<MagicMock spec='Message' id='125351468033872'>, <MagicMock spec='FSMContext' id='125351469399504'>), {}
+2025-06-20 09:58:19,176 - logger - INFO - Функція 'film_create' успішно завершила роботу
+2025-06-20 09:58:19,182 - logger - INFO - Виклик функції 'recommend_film' з аргументами: (<MagicMock spec='Message' id='125351468343920'>,), {}
+2025-06-20 09:58:19,183 - logger - INFO - Функція 'recommend_film' успішно завершила роботу
+2025-06-20 09:58:19,185 - logger - INFO - Виклик функції 'callback_film' з аргументами: (<MagicMock spec='CallbackQuery' id='125351468360832'>, <MagicMock id='125351468366160'>), {}
+2025-06-20 09:58:19,185 - logger - INFO - Функція 'callback_film' успішно завершила роботу
+2025-06-20 09:58:19,188 - logger - INFO - Виклик функції 'film_name' з аргументами: (<MagicMock spec='Message' id='125351468354832'>, <MagicMock spec='FSMContext' id='125351468416896'>), {}
+2025-06-20 09:58:19,189 - logger - INFO - Функція 'film_name' успішно завершила роботу
+2025-06-20 09:58:19,194 - logger - INFO - Виклик функції 'film_description' з аргументами: (<MagicMock spec='Message' id='125351468486288'>, <MagicMock spec='FSMContext' id='125351468498336'>), {}
+2025-06-20 09:58:19,194 - logger - INFO - Функція 'film_description' успішно завершила роботу
+2025-06-20 09:58:19,229 - logger - INFO - Виклик функції 'film_rating' з аргументами: (<MagicMock spec='Message' id='125351468441408'>, <MagicMock spec='FSMContext' id='125351473497056'>), {}
+2025-06-20 09:58:19,229 - logger - INFO - Функція 'film_rating' успішно завершила роботу
+2025-06-20 10:10:13,336 - logger - INFO - Виклик функції 'films' з аргументами: (<MagicMock spec='Message' id='136434060439488'>,), {}
+2025-06-20 10:10:13,336 - logger - INFO - Функція 'films' успішно завершила роботу
+2025-06-20 10:10:22,565 - logger - INFO - Виклик функції 'start' з аргументами: (<MagicMock spec='Message' id='135796284387504'>,), {}
+2025-06-20 10:10:22,566 - logger - INFO - Функція 'start' успішно завершила роботу
+2025-06-20 10:10:22,568 - logger - INFO - Виклик функції 'films' з аргументами: (<MagicMock spec='Message' id='135796284612800'>,), {}
+2025-06-20 10:10:22,569 - logger - INFO - Функція 'films' успішно завершила роботу
+2025-06-20 10:10:22,572 - logger - INFO - Виклик функції 'film_create' з аргументами: (<MagicMock spec='Message' id='135796284679536'>, <MagicMock spec='FSMContext' id='135796288176048'>), {}
+2025-06-20 10:10:22,573 - logger - INFO - Функція 'film_create' успішно завершила роботу
+2025-06-20 10:10:22,580 - logger - INFO - Виклик функції 'recommend_film' з аргументами: (<MagicMock spec='Message' id='135796284698368'>,), {}
+2025-06-20 10:10:22,580 - logger - INFO - Функція 'recommend_film' успішно завершила роботу
+2025-06-20 10:10:22,582 - logger - INFO - Виклик функції 'callback_film' з аргументами: (<MagicMock spec='CallbackQuery' id='135796284685872'>, <MagicMock id='135796284691072'>), {}
+2025-06-20 10:10:22,582 - logger - INFO - Функція 'callback_film' успішно завершила роботу
+2025-06-20 10:10:22,585 - logger - INFO - Виклик функції 'film_name' з аргументами: (<MagicMock spec='Message' id='135796284680784'>, <MagicMock spec='FSMContext' id='135796293078624'>), {}
+2025-06-20 10:10:22,586 - logger - INFO - Функція 'film_name' успішно завершила роботу
+2025-06-20 10:10:22,589 - logger - INFO - Виклик функції 'film_description' з аргументами: (<MagicMock spec='Message' id='135796284605408'>, <MagicMock spec='FSMContext' id='135796284698752'>), {}
+2025-06-20 10:10:22,590 - logger - INFO - Функція 'film_description' успішно завершила роботу
+2025-06-20 10:10:22,593 - logger - INFO - Виклик функції 'film_rating' з аргументами: (<MagicMock spec='Message' id='135796284826272'>, <MagicMock spec='FSMContext' id='135796284389520'>), {}
+2025-06-20 10:10:22,593 - logger - INFO - Функція 'film_rating' успішно завершила роботу
+2025-06-20 10:13:51,390 - logger - INFO - Виклик функції 'start' з аргументами: (<MagicMock spec='Message' id='136773290062336'>,), {}
+2025-06-20 10:13:51,390 - logger - INFO - Функція 'start' успішно завершила роботу
+2025-06-20 10:13:51,393 - logger - INFO - Виклик функції 'films' з аргументами: (<MagicMock spec='Message' id='136773284929920'>,), {}
+2025-06-20 10:13:51,394 - logger - INFO - Функція 'films' успішно завершила роботу
+2025-06-20 10:13:51,396 - logger - INFO - Виклик функції 'film_create' з аргументами: (<MagicMock spec='Message' id='136773285013136'>, <MagicMock spec='FSMContext' id='136773289323616'>), {}
+2025-06-20 10:13:51,397 - logger - INFO - Функція 'film_create' успішно завершила роботу
+2025-06-20 10:13:51,403 - logger - INFO - Виклик функції 'recommend_film' з аргументами: (<MagicMock spec='Message' id='136773285130272'>,), {}
+2025-06-20 10:13:51,403 - logger - INFO - Функція 'recommend_film' успішно завершила роботу
+2025-06-20 10:13:51,407 - logger - INFO - Виклик функції 'callback_film' з аргументами: (<MagicMock spec='CallbackQuery' id='136773285163520'>, <MagicMock id='136773285159440'>), {}
+2025-06-20 10:13:51,407 - logger - INFO - Функція 'callback_film' успішно завершила роботу
+2025-06-20 10:13:51,410 - logger - INFO - Виклик функції 'film_name' з аргументами: (<MagicMock spec='Message' id='136773285151184'>, <MagicMock spec='FSMContext' id='136773285157616'>), {}
+2025-06-20 10:13:51,411 - logger - INFO - Функція 'film_name' успішно завершила роботу
+2025-06-20 10:13:51,413 - logger - INFO - Виклик функції 'film_description' з аргументами: (<MagicMock spec='Message' id='136773285251936'>, <MagicMock spec='FSMContext' id='136773285191104'>), {}
+2025-06-20 10:13:51,414 - logger - INFO - Функція 'film_description' успішно завершила роботу
+2025-06-20 10:13:51,417 - logger - INFO - Виклик функції 'film_rating' з аргументами: (<MagicMock spec='Message' id='136773285265088'>, <MagicMock spec='FSMContext' id='136773293949728'>), {}
+2025-06-20 10:13:51,418 - logger - INFO - Функція 'film_rating' успішно завершила роботу
+2025-06-20 10:24:44,566 - logger - INFO - Виклик функції 'start' з аргументами: (<MagicMock spec='Message' id='124323061625680'>,), {}
+2025-06-20 10:24:44,567 - logger - INFO - Функція 'start' успішно завершила роботу
+2025-06-20 10:24:44,570 - logger - INFO - Виклик функції 'films' з аргументами: (<MagicMock spec='Message' id='124323055591712'>,), {}
+2025-06-20 10:24:44,570 - logger - INFO - Функція 'films' успішно завершила роботу
+2025-06-20 10:24:44,573 - logger - INFO - Виклик функції 'film_create' з аргументами: (<MagicMock spec='Message' id='124323055658448'>, <MagicMock spec='FSMContext' id='124323064594304'>), {}
+2025-06-20 10:24:44,574 - logger - INFO - Функція 'film_create' успішно завершила роботу
+2025-06-20 10:24:44,581 - logger - INFO - Виклик функції 'recommend_film' з аргументами: (<MagicMock spec='Message' id='124323055676896'>,), {}
+2025-06-20 10:24:44,581 - logger - INFO - Функція 'recommend_film' успішно завершила роботу
+2025-06-20 10:24:44,583 - logger - INFO - Виклик функції 'callback_film' з аргументами: (<MagicMock spec='CallbackQuery' id='124323055664064'>, <MagicMock id='124323055669024'>), {}
+2025-06-20 10:24:44,584 - logger - INFO - Функція 'callback_film' успішно завершила роботу
+2025-06-20 10:24:44,587 - logger - INFO - Виклик функції 'film_name' з аргументами: (<MagicMock spec='Message' id='124323055659984'>, <MagicMock spec='FSMContext' id='124323064169968'>), {}
+2025-06-20 10:24:44,588 - logger - INFO - Функція 'film_name' успішно завершила роботу
+2025-06-20 10:24:44,591 - logger - INFO - Виклик функції 'film_description' з аргументами: (<MagicMock spec='Message' id='124323055593056'>, <MagicMock spec='FSMContext' id='124323055671568'>), {}
+2025-06-20 10:24:44,591 - logger - INFO - Функція 'film_description' успішно завершила роботу
+2025-06-20 10:24:44,595 - logger - INFO - Виклик функції 'film_rating' з аргументами: (<MagicMock spec='Message' id='124323055804992'>, <MagicMock spec='FSMContext' id='124323063814272'>), {}
+2025-06-20 10:24:44,596 - logger - INFO - Функція 'film_rating' успішно завершила роботу
