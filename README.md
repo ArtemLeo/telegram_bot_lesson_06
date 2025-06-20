@@ -1,3 +1,3 @@
-# 🧩 Telegram Bot Lesson 05 🖐
+# 🧩 Telegram Bot Lesson 06 🖐
 
-![](lesson_49_DebuggingAndTestingOfCode_✔/main_image.png)
+![](lesson_50_DesignAndDocumentationOfCode_✔/main_image.png)
